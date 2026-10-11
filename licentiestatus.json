@@ -1,4 +1,4 @@
 {
- "body": "{\"v\":1,\"seq\":3,\"issuedAt\":\"2026-10-03T15:57:42.471Z\",\"revoked\":[]}",
- "sig": "XTs4u9K8dbAj5ih/rCaFH/zLzPQGRTK8PaL57pNKCycfsBo38UKkUJSQRHQg3cRSr4Ns9co/0s1ioFO+0esMDg=="
+ "body": "{\"v\":1,\"seq\":4,\"issuedAt\":\"2026-10-11T17:01:20.553Z\",\"revoked\":[\"c8532151bf4c3df6\"]}",
+ "sig": "i5ThwIHFCVSS+fNmnRQ00vKMdjmPY3jFvmhES779J9Xi3pYnuwWQ3Lt4Ipf+eUu1qyjadru/jZA4RAT4l7n2Dw=="
 }
